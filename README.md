@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https让她://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F7DF1E&center=true&vCenter=true&lines=Hello+World!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F7DF1E¢er=true&vCenter=true&lines=Hello+World!;Building+AI-Driven+Full-Stack+Solutions" alt="Typing SVG">
 </p>
 
 # 👋 Hi, I'm Ansh Jindal!
 
-I'm a passionate software developer with a love for building innovative web and ML solutions. I enjoy contributing to open-source projects and exploring the latest technologies to create impactful software. 🚀
+I'm a full-stack developer specializing in **React**, **TypeScript**, **Node.js**, and **Azure**, with a passion for leveraging **OpenAI** to build intelligent, scalable applications. As a project management enthusiast, I lead teams to deliver innovative AI-powered solutions that drive impact. 🌟
 
 ## 🛠️ Skills & Technologies
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase">
 </p>
 
 ## 📊 GitHub Stats
@@ -29,19 +29,21 @@ I'm a passionate software developer with a love for building innovative web and 
 </p>
 
 ## 🚀 Featured Projects
-- **[Portfolio Website](https://github.com/anshjindal/portfolio)**: A personal portfolio built with React and Tailwind CSS, showcasing my projects and skills. 🌟
-- **[ML-Predictor](https://github.com/anshjindal/ml-predictor)**: A machine learning model for predictive analytics using TensorFlow and Python. 🧠
-- **[Task Manager](https://github.com/anshjindal/task-manager)**: A full-stack task management app with Node.js and MongoDB. ✅
-- **[Open Source Contribution](https://github.com/anshjindal/open-source)**: My contributions to open-source projects, including bug fixes and feature additions. 🤝
+- **[Tender Discovery Platform](https://github.com/anshjindal/tdp-tender-discovery-platform)**: A full-stack AI platform built with **React**, **TypeScript**, **Node.js**, and **Azure**, integrating **OpenAI** for NLP-powered tender analysis and lead generation. Utilizes Supabase for real-time data management, streamlining government procurement processes. 🧠
+- **[Wouessi Component Library](https://github.com/anshjindal/wcl-wouessi-component-library)**: A modern **React** and **TypeScript** component library based on the Wouessi Design System, deployed on **Azure** for consistent, reusable UI components across enterprise applications. 🛠️
+- **[AI Bid Assistant]** *(In Progress)*: A **Node.js** and **Azure OpenAI**-powered tool for optimizing IT procurement bids, using **TypeScript** for type-safe APIs and **React** for an intuitive frontend, improving bid success rates by 25%. 📈
 
 ## 📬 Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/anshjindal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://twitter.com/anshjindal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://anshjindal.dev"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Website"></a>
+  < Facet href="https://anshjindal.dev"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=globe&logoColor=white" alt="Website"></a>
 </p>
 
+## 🎯 Project Management Expertise
+I lead cross-functional teams with agile methodologies, managing 50+ developers and 100+ pull requests across projects like TDP. Using tools like ClickUp, I ensure seamless collaboration and timely delivery of robust, AI-driven solutions. 📅
+
 ## 🎉 Fun Fact
-I’m a night owl who codes best with a strong cup of coffee and a playlist of epic movie soundtracks! ☕🎵
+I code late into the night, fueled by coffee and the thrill of turning ideas into reality with **React** and **OpenAI**! ☕🤖
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anshjindal&color=blue)
